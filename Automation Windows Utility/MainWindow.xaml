@@ -20,6 +20,9 @@
                         <ColumnDefinition Width="0*"/>
                         <ColumnDefinition/>
                     </Grid.ColumnDefinitions>
+                    <Label Grid.ColumnSpan="2" Content="System information" HorizontalAlignment="Left" Height="39.05" Margin="872.505,9,0,0" VerticalAlignment="Top" Width="290.495"/>
+                    <TextBlock Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="22" Margin="820,48.05,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="155"/>
+                    <TextBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="23" Margin="980,47.05,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="183"/>
                 </Grid>
             </TabItem>
             <TabItem Header="Windows 10">

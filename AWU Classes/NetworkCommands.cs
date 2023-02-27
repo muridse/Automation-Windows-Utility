@@ -4,5 +4,6 @@ namespace AWU_Classes
 {
     public class NetworkCommands
     {
+        
     }
 }
